@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rockm\\source\\repos\\ConsoleApp1\\NDTVWeather.csproj": {}
+    "C:\\git\\ProjectWeatherTest\\NDTVWeather.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rockm\\source\\repos\\ConsoleApp1\\NDTVWeather.csproj": {
+    "C:\\git\\ProjectWeatherTest\\NDTVWeather.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rockm\\source\\repos\\ConsoleApp1\\NDTVWeather.csproj",
+        "projectUniqueName": "C:\\git\\ProjectWeatherTest\\NDTVWeather.csproj",
         "projectName": "NDTVWeather",
-        "projectPath": "C:\\Users\\rockm\\source\\repos\\ConsoleApp1\\NDTVWeather.csproj",
+        "projectPath": "C:\\git\\ProjectWeatherTest\\NDTVWeather.csproj",
         "packagesPath": "C:\\Users\\rockm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rockm\\source\\repos\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\git\\ProjectWeatherTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rockm\\AppData\\Roaming\\NuGet\\NuGet.Config",

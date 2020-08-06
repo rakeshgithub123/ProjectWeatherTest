@@ -1,0 +1,7 @@
+{
+"VarianceForTemperatureInCelsius" : "2",
+"VarianceForHumidityInPercentage" : "10",
+"VarianceForWindSpeedInKMPH" : "5",
+"Browser" : "Chrome",
+"City" : "Bengaluru",
+}

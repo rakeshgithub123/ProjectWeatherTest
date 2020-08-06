@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "miZ0FMcCVDEG0p7ID3a0GVB/JNrK8s28LyH4YFyI+EDxMrTh6Qko7XZbsp6w2/yJhCHhGbOYG00BOAko5LwhMw==",
+  "dgSpecHash": "BX/X6Y74E4whFfLlljT6pl8xAc8bKmzVb3qPXFElRXTO8wQB1n1G9ym5jP15fpjHqh394+r7orJ2pP69wJ3PCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rockm\\source\\repos\\ConsoleApp1\\NDTVWeather.csproj",
+  "projectFilePath": "C:\\git\\ProjectWeatherTest\\NDTVWeather.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rockm\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\rockm\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
